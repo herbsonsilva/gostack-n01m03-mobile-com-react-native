@@ -37,7 +37,7 @@
 
 ## :rocket: Sobre
 
-Repositório contendo o código feito nas aulas do GoStack Bootcamp da Rocketseat sobre Mobile com React Native
+Repositório contendo o código feito nas aulas do [GoStack Bootcamp da Rocketseat](https://rocketseat.com.br/) sobre Mobile com React Native
 
 Aqui foi visto os principais conceitos do React Native e como aplicá-los na construção de uma aplicação mobile.
 
