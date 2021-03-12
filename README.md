@@ -57,6 +57,8 @@ Aqui foi visto os principais conceitos do React Native e como aplicá-los na con
 
 - Criando novos projetos
 
+## :memo: Licença
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../master/LICENSE) para mais detalhes.
 
 ---
